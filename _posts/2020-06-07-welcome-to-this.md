@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to this!"
 date:   2020-06-07 07:18:57 -0700
-categories: politics, personal
+categories: politics personal
 ---
 
 What is this? I don't know yet.

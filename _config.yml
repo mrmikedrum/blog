@@ -41,3 +41,4 @@ plugins:
 
 paginate: 3
 paginate_path: "/page/:num/"
+permalink: pretty
